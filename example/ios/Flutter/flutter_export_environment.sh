@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/home/harm/snap/flutter/common/flutter"
-export "FLUTTER_APPLICATION_PATH=/home/harm/prj/inacta/iban_form_field_updated/example"
+export "FLUTTER_ROOT=/Users/macbookpro/flutter"
+export "FLUTTER_APPLICATION_PATH=/Users/macbookpro/iban_form_field_updated/example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
