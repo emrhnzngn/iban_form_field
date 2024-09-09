@@ -260,7 +260,7 @@ class _IbanFormFieldState extends State<IbanFormFieldBuilder> {
               style: Theme.of(context).inputDecorationTheme.errorStyle ??
                   Theme.of(context)
                       .textTheme
-                      .caption!
+                      .bodySmall!
                       .copyWith(color: Theme.of(context).errorColor),
             ),
           ),
