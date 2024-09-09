@@ -159,7 +159,7 @@ class _IbanFormFieldState extends State<IbanFormFieldBuilder> {
   @override
   Widget build(BuildContext context) {
     var constraints = BoxConstraints.tightFor(
-      width: Theme.of(widget.state.context).textTheme.bodyText2!.fontSize! *
+      width: Theme.of(widget.state.context).textTheme.bodyMedium!.fontSize! *
           1.1 *
           2,
     );
