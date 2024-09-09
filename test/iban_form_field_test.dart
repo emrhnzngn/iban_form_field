@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:iban_form_field/iban_form_field.dart';
+import 'package:iban_form_field_updated/iban_form_field_updated.dart';
 
 void main() {
   testWidgets('it has a country code', (tester) async {

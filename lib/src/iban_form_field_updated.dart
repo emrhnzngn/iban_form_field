@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'package:iban_form_field/src/iban_model.dart';
-import 'package:iban_form_field/src/input_formatters/iban_paste_input_formatter.dart';
-import 'package:iban_form_field/src/input_formatters/spaced_text_input_formatter.dart';
+import 'package:iban_form_field_updated/src/iban_model.dart';
+import 'package:iban_form_field_updated/src/input_formatters/iban_paste_input_formatter.dart';
+import 'package:iban_form_field_updated/src/input_formatters/spaced_text_input_formatter.dart';
 
 class IbanFormField extends FormField<Iban> {
   IbanFormField({

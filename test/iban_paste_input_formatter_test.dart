@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:iban_form_field/src/input_formatters/iban_paste_input_formatter.dart';
+import 'package:iban_form_field_updated/src/input_formatters/iban_paste_input_formatter.dart';
 import 'package:test/test.dart';
 
 void main() {

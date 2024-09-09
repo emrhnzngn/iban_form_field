@@ -1,7 +1,7 @@
-name: iban_form_field
+name: iban_form_field_updated
 description: An IBAN form which deals with spacing and country specific rules.
-version: 0.2.3
-homepage: https://github.com/haarts/iban_form_field
+version: 0.0.1
+homepage: https://github.com/emrhnzngn/iban_form_field_updated
 
 environment:
   sdk: '>=2.12.0 <3.0.0'

@@ -1,4 +1,4 @@
-import 'package:iban_form_field/iban_form_field.dart';
+import 'package:iban_form_field_updated/iban_form_field_updated.dart';
 import 'package:test/test.dart';
 
 void main() {

@@ -17,7 +17,7 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  iban_form_field:
+  iban_form_field_updated:
     path: ../
   flutter:
     sdk: flutter
